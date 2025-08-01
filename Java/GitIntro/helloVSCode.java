@@ -1,4 +1,4 @@
-package Java;
+package Java.GitIntro;
 
 public class helloVSCode {
     public static void main(String[] args) {
